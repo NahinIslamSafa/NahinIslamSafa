@@ -30,3 +30,4 @@ I'm a Data Analyst focused on turning data into meaningful insights through anal
 ### Connect With Me
 
 - **LinkedIn:** [Nahin Islam Safa](https://www.linkedin.com/in/nahin-islam-safa-6049812b6/)
+- **Email:** nahinislamsafa@gmail.com
